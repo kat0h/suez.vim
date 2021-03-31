@@ -17,6 +17,7 @@ let g:lightline = {
 \   },
 \ }
 ```
+https://twitter.com/uvrub/status/1377210998789009408
 
 ### License
 MIT
